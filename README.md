@@ -11,10 +11,10 @@ In order to understand the user's perspective on a particular product or service
 In this project the sentiment analysis is applied to Hotel recommendation to classify the reviews into negative and positive clusters
 
 ## Visualization
-![GitHub Logo](/Visualizations/Visualizations1.pdf)
-![GitHub Logo](/Visualizations/Visualizations2.pdf)
-![GitHub Logo](/Visualizations/Visualizations3.pdf)
-![GitHub Logo](/Visualizations/Visualizations4.pdf)
+![GitHub Logo](/images/download.png)
+![GitHub Logo](/images/download (1).png)
+![GitHub Logo](/images/download (2).png)
+![GitHub Logo](/images/download (3).png)
 
 
 
