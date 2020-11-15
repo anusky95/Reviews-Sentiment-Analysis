@@ -12,9 +12,9 @@ In this project the sentiment analysis is applied to Hotel recommendation to cla
 
 ## Visualization
 ![GitHub Logo](/images/download.png)
-![GitHub Logo](/images/download (1).png)
-![GitHub Logo](/images/download (2).png)
-![GitHub Logo](/images/download (3).png)
+![GitHub Logo](/images/image1.png)
+![GitHub Logo](/images/image2.png)
+![GitHub Logo](/images/image3.png)
 
 
 
